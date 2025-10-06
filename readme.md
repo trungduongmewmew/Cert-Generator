@@ -71,13 +71,3 @@ Sau khi đã có CA, bạn có thể dùng nó để ký nhiều chứng chỉ c
 * **PyInstaller** để đóng gói thành file `.exe`.
 
 ---
-
-## 📄 Giấy phép
-
-Dự án này được cấp phép dưới Giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
-
----
-
-## 💬 Phản hồi & Đóng góp
-
-Nếu bạn gặp lỗi hoặc có ý tưởng cải tiến, đừng ngần ngại tạo một **[Issue](https://github.com/your-username/your-repository/issues)** trên repository này. Mọi đóng góp đều được chào đón!

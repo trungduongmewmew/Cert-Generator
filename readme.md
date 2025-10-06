@@ -23,7 +23,7 @@ Công cụ được đóng gói thành một file `.exe` duy nhất, không cầ
 
 ## 🚀 Cách sử dụng
 
-1.  Truy cập vào trang **[Releases](https://github.com/trungduongmewmew/Cert-Generator/releases)** của repository này.
+1.  Truy cập vào trang **[Releases](https://github.com/trungduongmewmew/Cert-Generator/)** của repository này.
 2.  Tải về file `.exe` 
 3.  Chạy file `.exe` vừa tải về. Giao diện chương trình sẽ hiện lên và bạn có thể bắt đầu sử dụng.
 

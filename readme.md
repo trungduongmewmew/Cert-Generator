@@ -6,7 +6,7 @@ Công cụ được đóng gói thành một file `.exe` duy nhất, không cầ
 
 ![Screenshot Giao diện công cụ](Images/Screenshot.png)
 
-## ✨ Tính năng chính
+##  Tính năng chính
 
 * **Giao diện đồ họa trực quan:** Dễ dàng thao tác và nhập liệu mà không cần dùng dòng lệnh.
 * **Tạo Root CA:** Nhanh chóng tạo ra một Certificate Authority gốc để tự quản lý chứng chỉ.
@@ -21,7 +21,7 @@ Công cụ được đóng gói thành một file `.exe` duy nhất, không cầ
 
 ---
 
-## 🚀 Cách sử dụng
+##  Cách sử dụng
 
 1.  Truy cập vào trang **[Releases](https://github.com/trungduongmewmew/Cert-Generator/)** của repository này.
 2.  Tải về file `.exe` 
@@ -29,7 +29,7 @@ Công cụ được đóng gói thành một file `.exe` duy nhất, không cầ
 
 ---
 
-## 📖 Hướng dẫn chi tiết
+##  Hướng dẫn chi tiết
 
 ### Bước 1: Tạo Certificate Authority (CA)
 
@@ -63,7 +63,7 @@ Sau khi đã có CA, bạn có thể dùng nó để ký nhiều chứng chỉ c
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+##  Công nghệ sử dụng
 
 * **Python 3**
 * **Tkinter** cho giao diện đồ họa.
